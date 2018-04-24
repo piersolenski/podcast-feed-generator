@@ -8,5 +8,5 @@ Simply upload the script, add your files to the `audio` directory, and then visi
 
 ```php
 $folder = "audio";
-$thumbnail = "www.my-awesome-thumbnail.com"
+$thumbnail = "www.my-awesome-thumbnail.com";
 ```
